@@ -1,5 +1,5 @@
 /*
-* Laboratorio1.asm
+* PreLaboratorio1.asm
 *
 * Creado: 03/02/2026
 * Autor : Juan Rodrigo Donis Alvizures
