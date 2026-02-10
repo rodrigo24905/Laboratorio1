@@ -1,0 +1,60 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\Debug\PostLaboratorio1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PostLaboratorio1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PostLaboratorio1.map</FILE>
+  <FILE>PostLaboratorio1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>25</LINE></RESET>
+  <SETUP><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>31</LINE></SETUP>
+  <Mostrar><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>240</LINE></Mostrar>
+  <Mostrar2><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>252</LINE></Mostrar2>
+  <LimpiarSuma><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>227</LINE></LimpiarSuma>
+  <MAIN_LOOP><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>66</LINE></MAIN_LOOP>
+  <Contador1><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>73</LINE></Contador1>
+  <Contador2><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>117</LINE></Contador2>
+  <BotonResultado><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>161</LINE></BotonResultado>
+  <Mas><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>82</LINE></Mas>
+  <Menos><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>99</LINE></Menos>
+  <Delay20><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>261</LINE></Delay20>
+  <MasOK><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>88</LINE></MasOK>
+  <SoltarMas><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>93</LINE></SoltarMas>
+  <MenosOK><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>105</LINE></MenosOK>
+  <SoltarMenos><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>110</LINE></SoltarMenos>
+  <Mas2><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>126</LINE></Mas2>
+  <Menos2><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>143</LINE></Menos2>
+  <MasOK2><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>132</LINE></MasOK2>
+  <SoltarMas2><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>137</LINE></SoltarMas2>
+  <MenosOK2><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>149</LINE></MenosOK2>
+  <SoltarMenos2><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>154</LINE></SoltarMenos2>
+  <Sumar><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>166</LINE></Sumar>
+  <SumarOK><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>172</LINE></SumarOK>
+  <CalcularSuma><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>183</LINE></CalcularSuma>
+  <MostrarSuma><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>203</LINE></MostrarSuma>
+  <SoltarRes><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>176</LINE></SoltarRes>
+  <CarryOn><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>194</LINE></CarryOn>
+  <CarryOff><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>190</LINE></CarryOff>
+  <GuardarRes><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>197</LINE></GuardarRes>
+  <D_O><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>267</LINE></D_O>
+  <D_M><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>269</LINE></D_M>
+  <D_I><FILE>C:\Users\jrdag\Documents\Atmel Studio\7.0\PostLaboratorio1\PostLaboratorio1\main.asm</FILE><LINE>271</LINE></D_I>
+ </LABELS>
+</ASSEMBLER_INFO>
