@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\Debug\Laboratorio1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laboratorio1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laboratorio1.map</FILE>
+  <FILE>Laboratorio1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>24</LINE></RESET>
+  <SETUP><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>30</LINE></SETUP>
+  <Mostrar><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>151</LINE></Mostrar>
+  <Mostrar2><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>163</LINE></Mostrar2>
+  <MAIN_LOOP><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>57</LINE></MAIN_LOOP>
+  <Contador1><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>63</LINE></Contador1>
+  <Contador2><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>107</LINE></Contador2>
+  <Mas><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>72</LINE></Mas>
+  <Menos><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>89</LINE></Menos>
+  <Delay20><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>172</LINE></Delay20>
+  <MasOK><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>78</LINE></MasOK>
+  <SoltarMas><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>83</LINE></SoltarMas>
+  <MenosOK><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>95</LINE></MenosOK>
+  <SoltarMenos><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>100</LINE></SoltarMenos>
+  <Mas2><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>116</LINE></Mas2>
+  <Menos2><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>133</LINE></Menos2>
+  <MasOK2><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>122</LINE></MasOK2>
+  <SoltarMas2><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>127</LINE></SoltarMas2>
+  <MenosOK2><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>139</LINE></MenosOK2>
+  <SoltarMenos2><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>144</LINE></SoltarMenos2>
+  <D_O><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>178</LINE></D_O>
+  <D_M><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>180</LINE></D_M>
+  <D_I><FILE>c:\users\jrdag\Documents\Atmel Studio\7.0\Laboratorio1\Laboratorio1\main.asm</FILE><LINE>182</LINE></D_I>
+ </LABELS>
+</ASSEMBLER_INFO>
